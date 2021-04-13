@@ -1,0 +1,51 @@
+/* header  */
+* {
+  box-sizing: border-box;
+}
+#masthead {
+  max-height: 100px;
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+
+.logo {
+  max-height: 90px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+}
+ul li {
+  display: inline;
+  padding: 10px;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  background-color: #f1c1b6;
+  color: white;
+  text-align: left;
+  margin-bottom: 0 !important;
+}
+
+footer div {
+  display: inline-block;
+  padding: 20px 20px;
+  vertical-align: top;
+}
+
+footer div a {
+  color: #fff;
+}
+
+.elementor-section-wrap {
+  margin-top: 100px;
+}
